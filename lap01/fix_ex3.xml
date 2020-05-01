@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DOCUMENT>
+    <employee>
+        <kitchen_staff/>
+        <name language='en'>Frank</name>
+        <new_hire/>
+        <position language='en'>Chef</position>
+    </employee>
+</DOCUMENT>
